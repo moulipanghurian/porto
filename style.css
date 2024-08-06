@@ -28,6 +28,8 @@ header nav ul {
     display: flex;
     margin: 0;
     padding: 0;
+    justify-content: center; /* Pusatkan item menu secara horizontal */
+    flex-wrap: wrap; 
 }
 
 header nav ul li {
